@@ -1,2 +1,1 @@
-My first git pull from github to webterm.
-
+My first git pull from github to webterminal
